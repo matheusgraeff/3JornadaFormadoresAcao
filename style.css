@@ -1,3 +1,7 @@
+body {
+    background-color: #D0BFFF;
+}
+
 .paragrafo1 {
     color: #358476;
     text-align: center;
@@ -18,5 +22,5 @@
 
 #titulo {
     text-align: center;
-    color: crimson;
+    color: #dc143c;
 }
