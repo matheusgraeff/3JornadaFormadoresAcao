@@ -1,10 +1,10 @@
 body {
-    background-color: blue;
+    background-color: rgb(143, 143, 180);
 }
 
 .paragrafo1 {
     color: #358476;
-    text-align: center;
+    text-align:justify;
     font-size: 20px;
 }
 
