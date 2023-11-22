@@ -1,5 +1,5 @@
 body {
-    background-color: #D0BFFF;
+    background-color: blue;
 }
 
 .paragrafo1 {
@@ -21,7 +21,7 @@ body {
 }
 
 #titulo {
-    text-align: center;
+    text-align:end;
     color: #dc143c;
 }
 
