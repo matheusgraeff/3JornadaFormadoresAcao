@@ -40,6 +40,7 @@ body {
 }
 
 .cabecalho{
+    background-image: linear-gradient(#ECE3CE, #739072);
     background-color: #ECE3CE;
     margin: 0;
     padding: 1%;
