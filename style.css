@@ -38,3 +38,19 @@ body {
     margin: 0;
     padding: 0;
 }
+
+.cabecalho{
+    background-color: #ECE3CE;
+}
+
+.secao1{
+    background-color: #739072;
+}
+
+.secao2{
+    background-color: #4F6F52;
+}
+
+.rodape{
+    background-color: #3A4D39;
+}
