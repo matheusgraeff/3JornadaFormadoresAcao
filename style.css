@@ -47,12 +47,18 @@ body {
 
 .secao1{
     background-color: #739072;
+    margin: 0;
+    padding: 10%;
 }
 
 .secao2{
     background-color: #4F6F52;
+    margin: 0;
+    padding: 10%;
 }
 
 .rodape{
     background-color: #3A4D39;
+    margin: 0;
+    padding: 10%;
 }
