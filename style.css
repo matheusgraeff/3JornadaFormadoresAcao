@@ -41,6 +41,8 @@ body {
 
 .cabecalho{
     background-color: #ECE3CE;
+    margin: 0;
+    padding: 10%;
 }
 
 .secao1{
