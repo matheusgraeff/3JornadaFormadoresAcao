@@ -26,8 +26,8 @@ body {
     color: #dc143c;
 }
 
-.imagem_poligono {
-    text-align: end;
+.secao1_imagem {
+    text-align: center;
 }
 
 .titulo_dois{
@@ -38,7 +38,6 @@ body {
     width: 25%;
     margin: 0;
     padding: 0;
-    text-align: center;
 }
 
 .cabecalho{
