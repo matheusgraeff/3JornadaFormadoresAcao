@@ -51,6 +51,7 @@ body {
     display: flex;
     align-items: center;
     border-bottom: 0.25em solid #3A4D39;
+    display: flexbox;
     gap: 30px;
 }
 
