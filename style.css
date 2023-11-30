@@ -51,6 +51,7 @@ body {
     display: flex;
     align-items: center;
     border-bottom: 0.25em solid #3A4D39;
+    gap: 30px;
 }
 
 .cabecalho-lista-item{
