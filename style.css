@@ -47,6 +47,8 @@ body {
     margin: 0;
     padding: 1%;
     font-size: 20px;
+    display: flex;
+    justify-content: space-around;
     border-bottom: 0.25em solid #3A4D39;
 }
 
