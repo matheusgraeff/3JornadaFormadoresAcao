@@ -49,6 +49,7 @@ body {
     font-size: 20px;
     display: flex;
     justify-content: space-around;
+    align-items: center;
     border-bottom: 0.25em solid #3A4D39;
 }
 
